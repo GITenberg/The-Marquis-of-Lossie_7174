@@ -1,4 +1,8 @@
 _repo: The-Marquis-of-Lossie_7174
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: MacDonald, George
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/127
     wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
 description: 'Sequel to: Malcolm.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7174#The-Marquis-of-Lossie
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
